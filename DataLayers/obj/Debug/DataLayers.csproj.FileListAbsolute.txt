@@ -1,0 +1,27 @@
+C:\Users\Hamid_PC\Documents\my progect\MyCms\DataLayers\bin\Debug\DataLayers.dll
+C:\Users\Hamid_PC\Documents\my progect\MyCms\DataLayers\bin\Debug\DataLayers.pdb
+C:\Users\Hamid_PC\Documents\my progect\MyCms\DataLayers\obj\Debug\DataLayers.csprojAssemblyReference.cache
+C:\Users\Hamid_PC\Documents\my progect\MyCms\DataLayers\obj\Debug\DataLayers.dll
+C:\Users\Hamid_PC\Documents\my progect\MyCms\DataLayers\obj\Debug\DataLayers.pdb
+C:\Users\Hamid_PC\Documents\my progect\MyCms\DataLayers\bin\Debug\DataLayers.dll.config
+C:\Users\Hamid_PC\Documents\my progect\MyCms\DataLayers\bin\Debug\EntityFramework.dll
+C:\Users\Hamid_PC\Documents\my progect\MyCms\DataLayers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hamid_PC\Documents\my progect\MyCms\DataLayers\bin\Debug\EntityFramework.xml
+C:\Users\Hamid_PC\Documents\my progect\MyCms\DataLayers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hamid_PC\Documents\my progect\MyCms\DataLayers\obj\Debug\DataLayers.csproj.CopyComplete
+C:\Users\Hamid_PC\Documents\my progect\MyCms\DataLayers\obj\Debug\DataLayers.Migrations.Initial_DataBase.resources
+C:\Users\Hamid_PC\Documents\my progect\MyCms\DataLayers\obj\Debug\DataLayers.csproj.GenerateResource.cache
+F:\project\MyCms\DataLayers\bin\Debug\DataLayers.dll.config
+F:\project\MyCms\DataLayers\bin\Debug\DataLayers.dll
+F:\project\MyCms\DataLayers\bin\Debug\DataLayers.pdb
+F:\project\MyCms\DataLayers\bin\Debug\EntityFramework.dll
+F:\project\MyCms\DataLayers\bin\Debug\EntityFramework.SqlServer.dll
+F:\project\MyCms\DataLayers\bin\Debug\EntityFramework.xml
+F:\project\MyCms\DataLayers\bin\Debug\EntityFramework.SqlServer.xml
+F:\project\MyCms\DataLayers\obj\Debug\DataLayers.csproj.AssemblyReference.cache
+F:\project\MyCms\DataLayers\obj\Debug\DataLayers.Migrations.Initial_DataBase.resources
+F:\project\MyCms\DataLayers\obj\Debug\DataLayers.csproj.GenerateResource.cache
+F:\project\MyCms\DataLayers\obj\Debug\DataLayers.csproj.CoreCompileInputs.cache
+F:\project\MyCms\DataLayers\obj\Debug\DataLayers.csproj.CopyComplete
+F:\project\MyCms\DataLayers\obj\Debug\DataLayers.dll
+F:\project\MyCms\DataLayers\obj\Debug\DataLayers.pdb
